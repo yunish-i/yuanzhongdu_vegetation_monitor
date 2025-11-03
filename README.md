@@ -4,6 +4,5 @@ It is a vegetation monitor tailored for the cultural relics of Yuanzhongdu, one 
 
 In memory of the days studying archaeology and remote sensing.
 
-[Demo](https://drive.google.com/file/d/14aIeTWUQEqnhFsw1cfC4ejWAL4niGFXK/view?usp=sharing)
+Here's a [demo](https://drive.google.com/file/d/14aIeTWUQEqnhFsw1cfC4ejWAL4niGFXK/view?usp=sharing). :)
 
-<a href="https://drive.google.com/file/d/14aIeTWUQEqnhFsw1cfC4ejWAL4niGFXK/view?usp=sharing" target="_blank">Demo</a>
